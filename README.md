@@ -2,7 +2,7 @@
 
 [Apache Superset](https://github.com/apache/incubator-superset)
 
-[Dockerize is amancevice/superset](https://github.com/amancevice/superset
+[Dockerize is amancevice/superset](https://github.com/amancevice/superset)
 
 # Difference
 
