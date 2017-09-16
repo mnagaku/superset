@@ -46,4 +46,4 @@ EXPOSE 8088
 HEALTHCHECK CMD ["curl", "-f", "http://localhost:8088/health"]
 ENTRYPOINT ["superset"]
 CMD ["runserver"]
-USER superset
+#USER superset
